@@ -1,8 +1,8 @@
 @charset "UTF-8";body.scrollingPage{
-    padding-top:48px;
+    padding-top: 14px;
 }
 body{
-    padding-top:48px;
+    padding-top: 14px;
 }
 .zoomGaleria .fotogaleriaBig_top .pagingInfoZoom{
     color:#e7131a;
@@ -4013,10 +4013,6 @@ body{
     }
 }@media(min-width:992px){
     body.scrollingPage{
-        padding-top:48px;
-    }
-    body{
-        padding-top:84px;
     }
     .sub_canais_top .sub_canais_top_container ul li a:hover{
         color:#e7131a;
